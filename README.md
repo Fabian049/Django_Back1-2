@@ -1,4 +1,4 @@
-# Django práctica 2
+# Django prácticas 1   2
 
 ## Paquetes
 
